@@ -12,6 +12,6 @@
 - SQL (mySQL, SQLite)
 - Prisma ORM
 - Git
-- Jest o Vitest
+- Jest or Vitest
 - Cypress
 
