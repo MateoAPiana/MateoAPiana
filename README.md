@@ -6,9 +6,9 @@
   
 </div>
 
-### I work with this tecnologies
+### I work with this tecnologies:
 
-- typescript
+- Typescript
 - SQL (mySQL, SQLite)
 - Prisma ORM
 - Git
